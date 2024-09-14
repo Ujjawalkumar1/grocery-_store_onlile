@@ -162,7 +162,7 @@ s</span>
 
 <section class="products">
 
-   <h1 class="title">latest products</h1>
+   <h1 class="title">latest product</h1>
 
    <div class="box-container">
 
